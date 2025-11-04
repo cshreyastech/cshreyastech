@@ -29,3 +29,24 @@
   - Developed double DQN, dueling DQN, and prioritized replay (Action) to train a Unity agent (Task), navigating reward-driven scenarios (Situation), achieving 13+ average rewards (Result).
 - <b>[Arm Manipulation RL](https://github.com/cshreyastech/RoboND-DeepRL-Project)</b>
   - Trained a robotic arm with DQN (Action) to hit targets (Task), optimizing policies (Situation), reaching 94% (arm) and 92% (gripper) accuracy (Result).
+
+<h3>Robotics & SLAM:</h3>
+
+- <b>[Home Service Robot](https://github.com/cshreyastech/HomeServiceProject)</b>
+  - Designed a ROS-based robot (Action) to autonomously map and navigate (Task), using mapping and navigation stack (Situation), successfully picking and delivering objects (Result).
+- <b>[Map My World – SLAM](https://github.com/cshreyastech/ROBOND-SLAM-project)</b>
+  - Implemented RTAB-based SLAM (Action) on a ROS robot (Task), navigating until loop closures and occupancy grid formed (Situation), completing 3 loop closures successfully (Result).
+- <b>[Where Am I – Perception](https://github.com/cshreyastech/udacity-localization-project)</b>
+  - Modeled robots in ROS with AMCL & navigation stack (Action) to localize and navigate (Task), tuning stack parameters (Situation), achieving reliable position/orientation navigation (Result).
+- <b>[Robotics Inference System]</b>
+  - Built ROS-based inference (Action) integrating AMCL & navigation (Task), tuning stack (Situation), achieving robust multi-robot navigation (Result).
+
+<h3>Computer Vision & Deep Learning:</h3>
+
+- <b>[Face & Emotion Recognition](https://github.com/cshreyastech/deep-learning-team2)</b>
+  - Implemented CNN architectures (Action) to classify faces and emotions (Task), benchmarking multiple models (Situation) and achieved high recognition accuracy (Result).
+- <b>[Follow Me – Deep Learning](https://github.com/cshreyastech/RoboND-DeepLearning-Project)</b>
+  - Architected fully convolutional deep model (Action) to enable quadcopter person-following (Task), trained with segmentation (Situation), reaching 95% accuracy (Result).
+- <b>[3D Perception](https://github.com/cshreyastech/RoboND-Perception-Project)</b>
+  - Used ROS & MoveIt (Action) to identify and manipulate objects (Task), applying Confusion Matrix techniques (Situation), achieving 100% identification accuracy (Result).
+
