@@ -18,7 +18,8 @@
 <h2>Personal Projects:</h2>
 
 <h3>Reinforcement Learning & Robotics:</h3>
-
+- <b>[GenAI](https://github.com/cshreyastech/GenAI)</b>
+  - An end-to-end Retrieval-Augmented Generation (RAG) pipeline that transforms real-estate listing data into searchable vector embeddings, retrieves relevant properties via semantic similarity, and generates grounded recommendations using an LLM.
 - <b>[Pick & Place](https://github.com/cshreyastech/RoboND-Kinematics-Project)</b>
   - Simulated 6-DOF KUKA KR210 arm (Action) to perform pick-and-place (Task), using ROS & MoveIt (Situation), achieving 90% task accuracy (Result).
 - <b>[Collaboration & Competition](https://github.com/cshreyastech/p3_collab-compet)</b>
