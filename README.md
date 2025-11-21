@@ -3,7 +3,7 @@
 <h2>Graduate Course Projects:</h2>
 
 - <b>[Graduate research - Automating Endoscopic movement using RL]</b>
-  - SAutomated endoscopic control of the da Vinci surgical system using reinforcement learning driven by hand-gesture and eye-movement tracking, reducing surgeons’ cognitive load by 30% during laparoscopic procedures.
+  - Automated endoscopic control of the da Vinci surgical system using reinforcement learning driven by hand-gesture and eye-movement tracking, reducing surgeons’ cognitive load by 30% during laparoscopic procedures.
 - <b>[Robot Motion Planning](https://github.com/cshreyastech/fetchRobot)</b>
   - Investigated HER and DDPG algorithms on Fetch robots in ROS, demonstrating 90% joint-space pick-and-place accuracy and contributing to reproducible benchmarks in deep reinforcement learning.
 - <b>[Research Torque on Exoskeleton Human model](https://github.com/cshreyastech/ambf_walker?organization=cshreyastech&organization=cshreyastech)</b>
@@ -18,6 +18,7 @@
 <h2>Personal Projects:</h2>
 
 <h3>Reinforcement Learning & Robotics:</h3>
+
 - <b>[GenAI](https://github.com/cshreyastech/GenAI)</b>
   - An end-to-end Retrieval-Augmented Generation (RAG) pipeline that transforms real-estate listing data into searchable vector embeddings, retrieves relevant properties via semantic similarity, and generates grounded recommendations using an LLM.
 - <b>[Pick & Place](https://github.com/cshreyastech/RoboND-Kinematics-Project)</b>
