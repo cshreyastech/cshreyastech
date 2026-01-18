@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shreyas Chandra Sekhar! <br/><a href="https://github.com/cshreyastech">Robotics AI researcher</a>, <a href="https://www.linkedin.com/in/shreyas-chandra-sekhar/">Robotics AI researcher</a></h1>
+<h1>Hi, I'm Shreyas Chandra Sekhar! <br/><a href="https://github.com/cshreyastech">Robotics AI researcher</a>, <a href="https://www.linkedin.com/in/shreyas-chandra-sekhar/">LinkedIn</a></h1>
 
 <h2>Graduate Course Projects:</h2>
 
